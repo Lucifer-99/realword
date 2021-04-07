@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\home",
+        "_name": "_636f70c2"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\login",
+        "_name": "_0a0e16ae"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\login",
+        "_name": "_0a0e16ae"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\profile",
+        "_name": "_0c95822e"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\settings",
+        "_name": "_639aa23a"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\editor",
+        "_name": "_5799c42d"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\每日练习\\\\realworld-nuxtJs\\\\pages\\\\article",
+        "_name": "_3f00fb94"
+      }
+    ],
+    "_name": "_63689dea"
+  }
+]
