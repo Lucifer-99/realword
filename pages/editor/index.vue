@@ -51,7 +51,7 @@
 
 <script>
 export default {
-  middleware: "authenticated",
+  middleware: "authenticated",//888
   name: "editor",
   data() {
     return {};
