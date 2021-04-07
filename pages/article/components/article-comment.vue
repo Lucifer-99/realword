@@ -18,7 +18,7 @@
     <div class="card" v-for="comment in comments" :key="comment.id">
       <div class="card-block">
         <p class="card-text">
-          {{ comment.body }}
+          {{ comment.body }}   
         </p>
       </div>
       <div class="card-footer">
@@ -55,7 +55,7 @@ import { getComments } from "@/api/article";
 export default {
   data() {
     return {
-      comments: [], // 文章列表
+      comments: [], // 文章列表sadfdsaf
     };
   },
   props: {
